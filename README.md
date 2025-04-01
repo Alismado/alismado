@@ -6,7 +6,7 @@
 Oi! Eu sou um entusiasta de TI em formação, mergulhando de cabeça no mundo da tecnologia. Meu foco está em criar soluções incríveis com **JavaScript**, **React**, **Python** e **C++**, enquanto exploro o desenvolvimento web e mobile. Sou movido por curiosidade, colaboração em projetos open-source e um amor eterno por aprendizado!
 
 <div align="center"> 
-## Habilidades e Ferramentas 
+Habilidades e Ferramentas
 <p> 
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="40px" alt="React Native"/> 
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="40px" alt="Mobile Dev"/> 
