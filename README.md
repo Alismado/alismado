@@ -7,14 +7,12 @@ Oi! Eu sou um entusiasta de TI em formação, mergulhando de cabeça no mundo da
 
 <div align="center"> 
 Habilidades e Ferramentas
-<p> 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="40px" alt="React Native"/> 
+<p>  
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="40px" alt="Mobile Dev"/> 
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="40px" alt="JavaScript"/> 
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="40px" alt="HTML"/> 
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="40px" alt="Java"/> 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="40px" alt="Python"/> 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="40px" alt="C#"/> 
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="40px" alt="Python"/>
 </p> 
 </div>
 
